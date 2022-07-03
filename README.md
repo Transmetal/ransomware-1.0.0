@@ -32,12 +32,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-
-## Authors
-
-- [@thenurhabib](https://www.github.com/thenurhabib)
-
-
 ## Feature
 
 - Collect every file of a system and encrypt it.
